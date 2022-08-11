@@ -10,7 +10,7 @@
 
 ----
 
-## 내가 맡은 웹 구현(코드도 같이 올림)
+## 내가 맡은 웹 구현(코드도 첨부)
 ![0 고객후기](https://user-images.githubusercontent.com/97028831/183096889-9bdc2afb-7318-411c-976d-470c628b1e55.png)
 ----
 ![3 고객후기](https://user-images.githubusercontent.com/97028831/183096921-917bb862-79fe-4c97-b47d-9971554fd04f.png)
