@@ -27,7 +27,7 @@
 
 ![5 관리자-공지사항세부사항](https://user-images.githubusercontent.com/97028831/186600428-41e603c4-d850-4dad-a57d-9254c658a4b7.png)
 
-- 괸리자 - 공지사항 추가
+- 관리자 - 공지사항 추가
 
 ![6 관리자-공지사항추가](https://user-images.githubusercontent.com/97028831/186600461-a32b188d-7a32-4096-8a7c-ffe96c7d2417.png)
 
